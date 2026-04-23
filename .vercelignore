@@ -1,5 +1,4 @@
 # Files and directories to ignore during Vercel deployment
-
 # Development files
 *.log
 .env.local
@@ -36,4 +35,3 @@ scripts/
 
 # Data files (not needed in deployment)
 data/
-
